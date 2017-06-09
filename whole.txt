@@ -1,0 +1,8 @@
+232405	raghav g	data Structure	5	4	15	13	9	16	22	60	84.0 	50.4 %	24.0 %	74.4 %	Passed	B
+232408	bob	data Structure	2	2	5	2	9	2	5	15	27.0 	16.200000000000003 %	6.0 %	22.200000000000003 %	Failed	F
+232450	raghav p	Programming 2	3	4	6	6	6	6	6	40	37.0 	22.2 %	16.0 %	38.2 %	Failed	D
+242303	Budulla Akhlaaq	Programming 2	5	4	14	15	7	17	30	80	92.0 	55.2 %	32.0 %	87.2 %	Passed	A		
+242304	Namie Pariema	Process Writing	5	4	14	14	8	17	28	90	90.0 	54.0 %	36.0 %	90.0 %	Passed	A+
+242360	nikhil anuth	Programming 2	2	3	11	8	3	12	25	50	64.0 	38.4 %	20.0 %	58.4 %	Passed	C+
+242588	john deere	Process Writing	4	4	13	12	9	18	29	90	89.0 	53.4 %	36.0 %	89.4 %	Passed	B
+252607	safira dowlut	Programming 2	5	4	14	13	9	15	26	75	86.0 	51.6 %	30.0 %	81.6 %	Passed	A

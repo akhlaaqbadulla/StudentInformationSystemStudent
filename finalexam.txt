@@ -1,0 +1,4 @@
+232405	raghav g	data Structure	60	24.0 %
+232408	bob	data Structure	15	6.0 %
+242303	Budulla Akhlaaq	Programming 2	80	32.0 %
+242304	Namie Pariema	Process Writing	90	36.0 %
